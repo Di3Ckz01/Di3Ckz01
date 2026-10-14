@@ -35,10 +35,21 @@ Currently working with technologies such as React, Next.js, TypeScript, Laravel,
 
 ## 📌 Featured Projects
 
-Projects coming soon.
+### 🌐 ViewSyn Website
 
-I'm currently preparing some of my professional and personal projects to showcase here.
+Modern SaaS website for a technology management platform focused on operational visibility, asset management, and business workflows.
 
+**Next.js · React · TypeScript · Tailwind CSS**
+
+- Responsive SaaS interface
+- Dark / Light mode
+- Real dashboard previews
+- Membership and onboarding flows
+- Contact API integration
+- Environment-based configuration
+- Production-ready Next.js build
+
+[View Repository →](https://github.com/Di3Ckz01/viewsyn-website)
 ---
 
 ## 🌱 Currently Improving
