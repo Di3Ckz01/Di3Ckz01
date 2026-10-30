@@ -1,10 +1,10 @@
 # Hi, I'm Diego 👋
 
-### Frontend Developer
+### Frontend Developer | React · Next.js · TypeScript | Dashboards & REST API Integration
 
-I build modern web applications, dashboards, and user interfaces focused on clean design, usability, and API integration.
+I build responsive web interfaces, operational dashboards, and product experiences focused on usability, clear information architecture, and reliable API integration.
 
-Currently working with technologies such as React, Next.js, TypeScript, Laravel, and REST APIs.
+My main focus is **frontend development** with React, Next.js, TypeScript, JavaScript, HTML, and CSS. I also have supporting experience with Laravel/PHP, authentication, roles, permissions, and REST API integration, which helps me collaborate effectively across the full application flow.
 
 ---
 
@@ -14,22 +14,26 @@ Currently working with technologies such as React, Next.js, TypeScript, Laravel,
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+**Supporting knowledge:** Laravel · PHP · REST APIs · JSON · MySQL · SQLite · Postman · Composer · Vite
+
 ---
 
-## 🚀 What I Work On
+## 🎯 What I Focus On
 
-- Frontend development
-- Responsive web applications
-- Operational dashboards
-- REST API integration
+- Frontend development with React and Next.js
+- Responsive and reusable user interfaces
+- Operational dashboards and data visualization
+- REST API integration and frontend/backend coordination
 - Dark / Light interfaces
-- Data visualization
-- PDF and Excel reporting interfaces
+- Tables, filters, charts, indicators, and monitoring screens
 - Git-based development workflows
+- UI/UX improvements for internal and SaaS products
 
 ---
 
@@ -37,31 +41,61 @@ Currently working with technologies such as React, Next.js, TypeScript, Laravel,
 
 ### 🌐 ViewSyn Website
 
-Modern SaaS website for a technology management platform focused on operational visibility, asset management, and business workflows.
+Modern SaaS website for a technology management platform, built with a strong focus on product presentation and user experience.
 
 **Next.js · React · TypeScript · Tailwind CSS**
 
+<p align="center">
+  <a href="https://github.com/Di3Ckz01/viewsyn-website">
+    <img src="https://raw.githubusercontent.com/Di3Ckz01/viewsyn-website/main/public/screenshots/viewsyn/light/dashboard.png" alt="ViewSyn dashboard preview" width="760">
+  </a>
+</p>
+
 - Responsive SaaS interface
 - Dark / Light mode
-- Real dashboard previews
+- Product and dashboard showcase
 - Membership and onboarding flows
 - Contact API integration
 - Environment-based configuration
-- Production-ready Next.js build
 
-[View Repository →](https://github.com/Di3Ckz01/viewsyn-website)
+[View ViewSyn Repository →](https://github.com/Di3Ckz01/viewsyn-website)
+
+---
+
+### 🧪 LAB DEMO
+
+Local portfolio demo focused on laboratory operations, dashboards, monitoring screens, and data visualization using fully fictional information.
+
+**Laravel 12 · JavaScript · Vite · Highcharts**
+
+<p align="center">
+  <a href="https://github.com/Di3Ckz01/lab-software-demo">
+    <img src="https://raw.githubusercontent.com/Di3Ckz01/lab-software-demo/main/docs/capturas/02-dashboard.png" alt="LAB DEMO dashboard preview" width="760">
+  </a>
+</p>
+
+- Operational dashboards and analytics
+- Sample collection monitoring
+- TV monitoring screens
+- Filters, charts, KPIs, and status indicators
+- Local demo mode with fictional data
+- Access controls and automated demo-security tests
+
+[View LAB DEMO Repository →](https://github.com/Di3Ckz01/lab-software-demo)
+
 ---
 
 ## 🌱 Currently Improving
 
-- React & Next.js
+- Advanced React and Next.js patterns
 - TypeScript
 - Frontend architecture
+- Component design and maintainability
 - UI/UX development
-- Cloud deployment workflows
+- Testing and deployment workflows
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-contreras-56b6942b7/)
